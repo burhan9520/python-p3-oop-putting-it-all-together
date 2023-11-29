@@ -20,7 +20,7 @@ class Book:
     def turn_page(self):
         print("Flipping the page...wow, you read fast!")
 
-# Additional methods or features can be added as needed
+
 
  
 
